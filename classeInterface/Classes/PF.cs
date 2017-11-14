@@ -21,7 +21,13 @@ namespace ClasseInterface.Classes
 
         public string Cadastrar()
         {
-            throw new System.NotImplementedException();
+            string rt =         "Id do Cliente: "+Id+
+                                "\nNome do Cliente: "+Nome.ToUpper()+
+                                "\nEmail: "+Email+
+                                "\nEndereço: "+Endereco.Logradouro+" ,"+Endereco.Numero+" ,"+Endereco.Bairro+
+                                "\nTelefone: "+Telefone+
+                                "\nCPF: "+CPF;
+            return rt;
         }
 
         public string Consultar()

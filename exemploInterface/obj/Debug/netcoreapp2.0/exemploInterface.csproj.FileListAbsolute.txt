@@ -1,0 +1,12 @@
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\exemploInterface.deps.json
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\exemploInterface.runtimeconfig.json
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\exemploInterface.runtimeconfig.dev.json
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\exemploInterface.dll
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\exemploInterface.pdb
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\obj\Debug\netcoreapp2.0\exemploInterface.csproj.CoreCompileInputs.cache
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\obj\Debug\netcoreapp2.0\exemploInterface.AssemblyInfoInputs.cache
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\obj\Debug\netcoreapp2.0\exemploInterface.AssemblyInfo.cs
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\obj\Debug\netcoreapp2.0\exemploInterface.dll
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\obj\Debug\netcoreapp2.0\exemploInterface.pdb
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\classeInterface.dll
+C:\~~\exemploInterface\interfacePolimorfismo\exemploInterface\bin\Debug\netcoreapp2.0\classeInterface.pdb
